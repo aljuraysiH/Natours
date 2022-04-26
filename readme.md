@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Natours
+# Click to visit [Natours](https://natours-aljuraysi.netlify.app/#section-tours)
 
 > Simple user interface for a tourist site that provides a variety of packages for tourists.
 
